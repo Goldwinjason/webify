@@ -11,7 +11,7 @@ export default function Projects() {
       technologies: ["Next.js", "Node.js", "MongoDB", "WebRTC"],
     },
     {
-      title: "ShopSmart E-commerce",
+      title: "project orange",
       description:
         "Full-featured e-commerce solution with real-time inventory, payment processing, and order management.",
       image: "/istockphoto-1351746589-612x612.jpg",

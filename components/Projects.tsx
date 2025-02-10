@@ -14,7 +14,7 @@ export default function Projects() {
       title: "ShopSmart E-commerce",
       description:
         "Full-featured e-commerce solution with real-time inventory, payment processing, and order management.",
-      image: "/photo.jpg",
+      image: "/istockphoto-1351746589-612x612.jpg",
       link: "https://shopsmart.com",
       technologies: ["React", "Express", "PostgreSQL", "Stripe"],
     },
@@ -22,7 +22,7 @@ export default function Projects() {
       title: "TaskFlow",
       description:
         "Project management tool with real-time collaboration, task tracking, and team analytics dashboard.",
-      image: "/photo.jpg",
+      image: "/istockphoto-1351746589-612x612.jpg",
       link: "https://taskflow.com",
       technologies: ["Vue.js", "Firebase", "TypeScript", "Chart.js"],
     },

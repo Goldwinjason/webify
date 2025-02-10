@@ -7,12 +7,12 @@ export default function About() {
       <div className="grid md:grid-cols-2 gap-12 items-center">
         <div>
           <p className="text-lg mb-6 text-gray-700">
-            Hello! I'm steve jobs, a Full-stack Developer based in Chennai. I
+            Hello! m steve jobs, a Full-stack Developer based in Chennai. I
             specialize in building modern web applications with a focus on user
             experience and performance.
           </p>
           <p className="text-lg mb-6 text-gray-700">
-            With 3+ years of experience in web development, I've had the
+            With 3+ years of experience in web development, Ive had the
             opportunity to work on diverse projects ranging from e-commerce
             platforms to educational technology solutions.
           </p>

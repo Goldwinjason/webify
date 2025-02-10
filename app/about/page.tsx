@@ -27,7 +27,7 @@ export default function About() {
         </div>
         <div className="relative h-[500px] rounded-lg overflow-hidden shadow-xl">
           <Image
-            src="/your-photo.jpg"
+            src="/your-istockphoto-1351746589-612x612.jpg"
             alt="steve jobs"
             fill
             className="object-cover"
